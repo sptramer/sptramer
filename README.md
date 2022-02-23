@@ -4,7 +4,7 @@ I'm Steve. I used to be an engineer, primarily working in C and C++, but I can o
 
 Oh yeah. I wrote software that runs the Large Hadron Collider (though I hope my code is no longer used in production) **and** an iPhone app that scans a barcode on a tractor. This is just a small selection from my incredible career as an engineer, during which I shipped exactly four products. I was also an expert on SDK development and high-performance code, especially in mobile environments. I learned those things so you could be served banner ads efficiently while playing Candy Crush. Sorry about that.
 
-These days I only do engineering for fun and mostly in Rust and ancient assembly on simple architectures, because doing these things are impractical and therefore only interesting (to me) and not especially useful (to others). I make an effort to release all software I develop in my off-time under the anarchist licensing principle that no code may be used for any legal reason, because it absolutely should not be.
+These days I only do engineering for fun and mostly in Rust and ancient assembly on simple architectures, because doing these things are impractical and therefore only interesting (to me) and not especially useful (to others). I make an effort to release all software I develop in my off-time under the anarchist licensing principle that no code may be used for any reason, because it absolutely should not be.
 
 Professionally, I'm a technical writer with an emphasis on understanding devops infrastructure for docs, API and core code concepts documentation, and other engineer-to-English translations that help users (whether they're also developers or not.) This is much more satisfying, and also I actually get to ship 90% of what I do.
 
