@@ -1,6 +1,8 @@
 ### Hello humans
 
-I'm Steve. I used to be an engineer, primarily working in C and C++, but I can overflow any buffer on any language. I have written both software that runs the Large Hadron Collider (though I hope my code is no longer used in production) and an iPhone app that scans a barcode on a tractor.
+I'm Steve. I used to be an engineer, primarily working in C and C++, but I can overflow any buffer on any letter of the alphabet. According to LinkedIn, I am the foremost expert on Final Fantasy V in the world. Apparently I'm also an expert on the roguelike genre, as I have now explained it at least on five different podcasts.
+
+Oh yeah. I wrote software that runs the Large Hadron Collider (though I hope my code is no longer used in production) **and** an iPhone app that scans a barcode on a tractor. This is just a small selection from my incredible career, during which I have shipped exactly three products. I was also an expert on SDK development and high-performance code, especially in mobile environments. I learned those things so you could be served banner ads efficiently while playing Candy Crush. Sorry about that.
 
 These days I only do engineering for fun and mostly in Rust and ancient assembly on simple architectures, because doing these things are impractical and therefore only interesting (to me) and not especially useful (to others). I make an effort to release all software I develop in my off-time under the anarchist licensing principle that no code may be used for any legal reason, because it absolutely should not be.
 
