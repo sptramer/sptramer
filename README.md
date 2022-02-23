@@ -11,3 +11,10 @@ Professionally, I'm a technical writer with an emphasis on understanding devops 
 Currently, I work on [Open 3D Engine](https://www.o3de.org/) and am the chair of the [Documentation and Community Special Interest Group](https://github.com/o3de/sig-docs-community). Would you like to help game developers build a better world based on open source software, where production pipelines can be better controled and separated, and technical stacks can be shared? I encourage you to contribute to [code](https://github.com/o3de/o3de) or [docs](https://github.com/o3de/o3de.org).
 
 Oh yes. Fist of the White Lotus is the best Shaw Brothers movie. You should probably watch it sometime.
+
+## GitHub gamification
+
+Here are some statistics from GitHub about the things I do "for real." Thank you GitHub.
+
+[![sptramer GitHub stats](https://github-readme-stats.vercel.app/api?username=sptramer)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sptramer&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
