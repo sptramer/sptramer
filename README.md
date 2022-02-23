@@ -1,6 +1,6 @@
 ### Hello humans
 
-I'm Steve. I used to be an engineer, primarily working in C and C++, but I can overflow any buffer on any letter of the alphabet. According to LinkedIn, I am the foremost expert on Final Fantasy V in the world. Apparently I'm also an expert on the roguelike genre, as I have now explained it at least on five different podcasts.
+I'm Steve. I used to be an engineer, primarily working in C and C++, but I can overflow any buffer on any letter of the alphabet. According to LinkedIn, I am the foremost expert on Final Fantasy V in the world. Apparently I'm also an expert on the roguelike genre, as I have now explained it at least on five different podcasts. I believe this makes me an expert in what they call "Game Studies". 
 
 Oh yeah. I wrote software that runs the Large Hadron Collider (though I hope my code is no longer used in production) **and** an iPhone app that scans a barcode on a tractor. This is just a small selection from my incredible career as an engineer, during which I shipped exactly four products. I was also an expert on SDK development and high-performance code, especially in mobile environments. I learned those things so you could be served banner ads efficiently while playing Candy Crush. Sorry about that.
 
