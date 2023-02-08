@@ -6,8 +6,6 @@ As an engineer, I did everything from write job-management queue software for th
 
 These days I describe my professional interests as "making computers less bad." Almost all users of computers agree: They're worse than they should be. So I've become a technical writer with an emphasis on understanding devops infrastructure for docs, API and core code concepts documentation, and other engineer-to-English translations that help users (whether they're also developers or not.)
 
-Currently, I work on [Open 3D Engine](https://www.o3de.org/). Would you like to help game developers build a better world based on open source software, where production pipelines can be better controled and separated, and technical stacks can be shared? I encourage you to contribute to [code](https://github.com/o3de/o3de) or [docs](https://github.com/o3de/o3de.org).
-
 ## GitHub gamification
 
 [![sptramer GitHub stats](https://github-readme-stats.vercel.app/api?username=sptramer)](https://github.com/anuraghazra/github-readme-stats)
