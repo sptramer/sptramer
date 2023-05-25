@@ -6,8 +6,6 @@ As an engineer, I did everything from write job queue management software for th
 
 These days I describe my professional interests as "making computers less bad." Almost all users of computers agree: They're worse than they should be. So I've become a technical writer with an emphasis on understanding devops infrastructure for docs, API and core code concepts documentation, and other engineer-to-English translations that help users (whether they're also developers or not.)
 
-I am currently open to new jobs! Exciting!
-
 ## GitHub gamification
 
 [![sptramer GitHub stats](https://github-readme-stats.vercel.app/api?username=sptramer)](https://github.com/anuraghazra/github-readme-stats)
